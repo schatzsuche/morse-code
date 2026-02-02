@@ -13,6 +13,7 @@
         <title>Morse code lernen</title>
         <link rel="stylesheet" href="styles.css">
     <link rel="icon" type="img/jpg" href="assets/logo.png">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     </head>
     <body>
 
