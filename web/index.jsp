@@ -21,7 +21,9 @@
             <h1>morse quiz</h1>
             <p>Das ist ein quiz zum learnen von morse code</p>
             <a href="morse.jsp"><button  id="idk"  >--. ---</button></a>
-            
+            <br>
+            <br>
+            <br>
         </section>
     </body>
 </html>
