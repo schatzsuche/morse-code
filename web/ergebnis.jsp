@@ -11,6 +11,7 @@
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>Morse code lernen</title>
         <link rel="stylesheet" href="styles.css">
+    <link rel="icon" type="img/jpg" href="assets/logo.png">
     </head>
     <body>
         <%

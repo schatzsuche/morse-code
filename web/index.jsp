@@ -11,12 +11,14 @@
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>Morse code lernen</title>
         <link rel="stylesheet" href="styles.css">
+    <link rel="icon" type="img/jpg" href="assets/logo.png">
     </head>
     <body>
         <section>
             
-            <h1>Hello World!</h1>
-            <p>Das ist ein quiz learnen von morse code</p>
+            <img src="assets/logo1.png" width="150px"">
+            <h1>morse quiz</h1>
+            <p>Das ist ein quiz zum learnen von morse code</p>
             <a href="morse.jsp"><button  id="idk"  >--. ---</button></a>
             
         </section>
